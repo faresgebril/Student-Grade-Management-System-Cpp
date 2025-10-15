@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716145090 source:d:\c language\gebril\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<limits>
+
